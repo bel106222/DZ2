@@ -49,6 +49,11 @@ void alyona11()
 
 }
 
+void m20()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";

@@ -39,6 +39,11 @@ void m11()
 
 }
 
+void m12()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";

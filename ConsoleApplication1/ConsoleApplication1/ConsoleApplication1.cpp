@@ -54,6 +54,11 @@ void m20()
 
 }
 
+void m21()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
